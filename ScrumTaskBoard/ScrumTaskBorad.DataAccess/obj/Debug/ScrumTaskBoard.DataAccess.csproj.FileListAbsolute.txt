@@ -1,0 +1,28 @@
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\ScrumTaskBorad.DataAccess.dll.config
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\ScrumTaskBorad.DataAccess.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\ScrumTaskBorad.DataAccess.pdb
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\ScrumTaskBoard.Entities.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\ScrumTaskBoard.Entities.pdb
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\obj\Debug\ScrumTaskBoard.DataAccess.csprojAssemblyReference.cache
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\obj\Debug\ScrumTaskBoard.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\obj\Debug\ScrumTaskBoard.DataAccess.csproj.CopyComplete
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\obj\Debug\ScrumTaskBorad.DataAccess.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\obj\Debug\ScrumTaskBorad.DataAccess.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\ScrumTaskBorad.DataAccess.dll.config
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\ScrumTaskBorad.DataAccess.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\ScrumTaskBorad.DataAccess.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\ScrumTaskBoard.Entities.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\ScrumTaskBoard.Entities.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\obj\Debug\ScrumTaskBoard.DataAccess.csprojAssemblyReference.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\obj\Debug\ScrumTaskBoard.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\obj\Debug\ScrumTaskBoard.DataAccess.csproj.CopyComplete
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\obj\Debug\ScrumTaskBorad.DataAccess.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBorad.DataAccess\obj\Debug\ScrumTaskBorad.DataAccess.pdb

@@ -1,0 +1,64 @@
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.WebFormsUI.exe
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\MetroFramework.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.Business.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.Entities.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBorad.DataAccess.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\FluentValidation.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\EntityFramework.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.WebFormsUI.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.WebFormsUI.exe.config
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.Business.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.Entities.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBorad.DataAccess.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBorad.DataAccess.dll.config
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\FluentValidation.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\bin\Debug\EntityFramework.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.WebFormsUI.exe
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\MetroFramework.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.Business.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.Entities.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBorad.DataAccess.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\FluentValidation.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\EntityFramework.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.WebFormsUI.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.WebFormsUI.exe.config
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.Business.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBoard.Entities.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBorad.DataAccess.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\ScrumTaskBorad.DataAccess.dll.config
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\FluentValidation.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\bin\Debug\EntityFramework.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,96 @@
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.csprojAssemblyReference.cache
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form1.resources
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form2.resources
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form3.resources
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form4.resources
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Properties.Resources.resources
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.WebFormsUI.exe.config
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.WebFormsUI.exe
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.WebFormsUI.pdb
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.exe
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.pdb
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.Business.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBorad.DataAccess.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.Entities.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.Business.pdb
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBorad.DataAccess.pdb
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBorad.DataAccess.dll.config
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.Entities.pdb
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.csproj.CopyComplete
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form5.resources
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form6.resources
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\FluentValidation.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\FluentValidation.xml
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\MetroFramework.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.WebFormsUI.exe.config
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.WebFormsUI.exe
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.WebFormsUI.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\MetroFramework.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.Business.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.Entities.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBorad.DataAccess.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\FluentValidation.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.Business.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.Entities.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBorad.DataAccess.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBorad.DataAccess.dll.config
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\FluentValidation.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.csprojAssemblyReference.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form1.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form2.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form3.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form4.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form5.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form6.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Properties.Resources.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.csproj.CopyComplete
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.exe
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.WebFormsUI.exe.config
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.WebFormsUI.exe
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.WebFormsUI.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\MetroFramework.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.Business.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.Entities.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBorad.DataAccess.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\FluentValidation.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.Business.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBoard.Entities.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBorad.DataAccess.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\ScrumTaskBorad.DataAccess.dll.config
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\bin\Debug\FluentValidation.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.csprojAssemblyReference.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form1.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form2.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form3.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form4.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form5.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Form6.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.Properties.Resources.resources
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.csproj.CopyComplete
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.exe
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje +Ödev4\Proje\ScrumTaskBoard\ScrumTaskBoard.WebFormsUI\obj\Debug\ScrumTaskBoard.WebFormsUI.pdb

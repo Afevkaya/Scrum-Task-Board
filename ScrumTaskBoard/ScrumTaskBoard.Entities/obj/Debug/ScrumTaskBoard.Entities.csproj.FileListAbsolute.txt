@@ -1,0 +1,6 @@
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Entities\bin\Debug\ScrumTaskBoard.Entities.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Entities\bin\Debug\ScrumTaskBoard.Entities.pdb
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Entities\obj\Debug\ScrumTaskBoard.Entities.csprojAssemblyReference.cache
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Entities\obj\Debug\ScrumTaskBoard.Entities.csproj.CoreCompileInputs.cache
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Entities\obj\Debug\ScrumTaskBoard.Entities.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Entities\obj\Debug\ScrumTaskBoard.Entities.pdb

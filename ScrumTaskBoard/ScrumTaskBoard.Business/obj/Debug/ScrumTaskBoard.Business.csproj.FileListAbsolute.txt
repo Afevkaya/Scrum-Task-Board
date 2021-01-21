@@ -1,0 +1,32 @@
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBoard.Business.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBoard.Business.pdb
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBoard.Entities.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBorad.DataAccess.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\EntityFramework.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBoard.Entities.pdb
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBorad.DataAccess.pdb
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBorad.DataAccess.dll.config
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\EntityFramework.xml
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\obj\Debug\ScrumTaskBoard.Business.csprojAssemblyReference.cache
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\obj\Debug\ScrumTaskBoard.Business.csproj.CoreCompileInputs.cache
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\obj\Debug\ScrumTaskBoard.Business.csproj.CopyComplete
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\obj\Debug\ScrumTaskBoard.Business.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\obj\Debug\ScrumTaskBoard.Business.pdb
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\FluentValidation.dll
+C:\Users\90505\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\FluentValidation.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBoard.Business.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBoard.Business.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\FluentValidation.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBoard.Entities.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBorad.DataAccess.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\EntityFramework.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBoard.Entities.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBorad.DataAccess.pdb
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\ScrumTaskBorad.DataAccess.dll.config
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\FluentValidation.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\bin\Debug\EntityFramework.xml
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\obj\Debug\ScrumTaskBoard.Business.csprojAssemblyReference.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\obj\Debug\ScrumTaskBoard.Business.csproj.CoreCompileInputs.cache
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\obj\Debug\ScrumTaskBoard.Business.csproj.CopyComplete
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\obj\Debug\ScrumTaskBoard.Business.dll
+C:\Users\Enes Tunahan\Desktop\Yazılım Sınama Proje2\ScrumTaskBoard\ScrumTaskBoard.Business\obj\Debug\ScrumTaskBoard.Business.pdb
